@@ -1,4 +1,4 @@
-# Top 3% Solution for famouse Kaggle Titanic competition
+# Top 3% Solution for famous Kaggle Titanic competition
 
 This is my solution to Kaggle's [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) competition.
 
